@@ -2,7 +2,7 @@
 
 ## Sobre Mí
 
-¡Hola! Soy un chico de 23 años apasionado por la tecnología, actualmente estoy en mi 3er año de estudios en Ingeniería en Sistemas en la USAC (CUNOC). Tengo una gran pasión por las estructuras de datos y la arquitectura de software. Mi viaje en el mundo tecnológico ha sido impulsado por la curiosidad y el amor por resolver problemas.
+Soy un apasionado de la tecnología y actualmente estoy en mi 3er año de Ingeniería en Sistemas en la USAC (CUNOC). Mi entusiasmo por la arquitectura de software me ha llevado a profundizar en diversas áreas del desarrollo tecnológico. Mi viaje en este mundo ha sido impulsado por una curiosidad insaciable y una pasión por sistematizar y resolver problemas.
 
 ## Habilidades
 
@@ -12,19 +12,8 @@
   - JavaScript
 
 - **Intereses:**
-  - Estructuras de Datos
   - Arquitectura de Software
-
-## Proyectos
-
-### Proyecto 1: [Nombre del Proyecto]
-Una breve descripción de tu proyecto, su propósito y las tecnologías utilizadas.
-
-### Proyecto 2: [Nombre del Proyecto]
-Una breve descripción de tu proyecto, su propósito y las tecnologías utilizadas.
-
-### Proyecto 3: [Nombre del Proyecto]
-Una breve descripción de tu proyecto, su propósito y las tecnologías utilizadas.
+  - Programacion Web
 
 ## Educación
 
