@@ -28,15 +28,15 @@ Soy un chico apasionado por la tecnología, actualmente estoy en mi 3er año de 
 
 ## Estadísticas de GitHub
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=dark)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Cruz-Zapil&show_icons=true&theme=dark)
 
 ## Lenguajes más utilizados
 
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=dark)
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Cruz-Zapil&layout=compact&theme=dark)
 
 ## Gráfico de contribuciones
 
-![Gráfico de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=tu_usuario&theme=dark)
+![Gráfico de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=Cruz-Zapil&theme=dark)
 
 ## Herramientas que utilizo
 
