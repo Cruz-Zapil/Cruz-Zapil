@@ -28,8 +28,7 @@ Soy un chico apasionado por la tecnología, actualmente estoy en mi 3er año de 
 
 ## Estadísticas de GitHub
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Cruz-Zapil&show_icons=true&theme=dark)  
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Cruz-Zapil&layout=compact&theme=dark)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Cruz-Zapil&show_icons=true&theme=dark)  ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Cruz-Zapil&layout=compact&theme=dark)
 
 
 
