@@ -48,16 +48,4 @@ Soy un chico apasionado por la tecnología, actualmente estoy en mi 3er año de 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Repositorios Populares
 
-[![Repositorio 1](https://github-readme-stats.vercel.app/api/pin/?username=tu_usuario&repo=repositorio1&theme=dark)](https://github.com/tu_usuario/repositorio1)
-[![Repositorio 2](https://github-readme-stats.vercel.app/api/pin/?username=tu_usuario&repo=repositorio2&theme=dark)](https://github.com/tu_usuario/repositorio2)
-[![Repositorio 3](https://github-readme-stats.vercel.app/api/pin/?username=tu_usuario&repo=repositorio3&theme=dark)](https://github.com/tu_usuario/repositorio3)
-
----
-
-### Imágenes
-
-Aquí puedes incluir imágenes como esta:
-
-![Imagen de ejemplo](ruta/a/tu/imagen.png)
