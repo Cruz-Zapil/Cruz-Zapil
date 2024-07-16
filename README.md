@@ -26,12 +26,16 @@ Soy un chico apasionado por la tecnología, actualmente estoy en mi 3er año de 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu_usuario/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu_usuario)
 
-#
+
 ## Estadísticas de GitHub
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Cruz-Zapil&show_icons=true&theme=dark)  ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Cruz-Zapil&layout=compact&theme=dark)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Cruz-Zapil&show_icons=true&theme=dark)  
 
-#
+## Lenguajes más utilizados
+
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Cruz-Zapil&layout=compact&theme=dark)
+
+
 
 
 ## Gráfico de contribuciones
